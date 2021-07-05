@@ -1,0 +1,11 @@
+本项目为软件构造基础大作业项目《基于unity的饼里奥》，组员及成员分工如下：
+
+吴嘉璐：dungeonScene1部分的摄像机管理，player类部分,Enemy类（怪物）,Explosion（炸弹）预制体,Canvas（UI图层）
+
+林洁：newscenemanager，soundmanager，saveloadmanager类的开发和scripts/utils文件夹下脚本文件的开发，iwanna部分地图设计，dungeon1界面的开发
+
+张翔宇：主要负责UI设计和逻辑设计，包括主界面设计，stage0提示设计，通关界面设计及对应代码实现，同时也设计了iwanna部分的部分地图和player实体类的部分功能。并实现了iwanna部分的音频管理，摄像机管理和关卡名显示。对应实现：AudioEffct,LevelnameDisplay,CameraAdjuster,LevelTransition和MenuController,DispalyManager类
+
+ 
+
+肖思雨：主要负责武器，子弹，箱子，敌人，BOSS的实体类已经dungeon部分的player实体类和gamemanager管理类
